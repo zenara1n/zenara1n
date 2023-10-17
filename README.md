@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **react, next, tailwindcss, Flutter, Android**
 
-- 📫 How to reach me **raohuraira331.rb@gmail.com**
+- 📫 How to reach me **zxzayn@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://drive.google.com/file/d/1p0WpsCNJfOIBq370H45UeEw72hO8PqAG/view?usp=drivesdk)
+- 📄 Know about my experiences [Portfolio](https://zenara1n.github.io/personal-portfolio/)
 
 - ⚡ Fun fact **I have great humour and I'm also a memer**
 
