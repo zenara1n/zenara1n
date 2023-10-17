@@ -11,24 +11,18 @@
 
 - 🌱 I’m currently learning **nextjs, firebase, next-auth**
 
-- 💬 Ask me about **react, next, tailwindcss, Flutter**
+- 💬 Ask me about **react, next, tailwindcss, Flutter, Android**
 
 - 📫 How to reach me **raohuraira331.rb@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1p0WpsCNJfOIBq370H45UeEw72hO8PqAG/view?usp=drivesdk)
+- 📄 Know about my experiences [Portfolio](https://drive.google.com/file/d/1p0WpsCNJfOIBq370H45UeEw72hO8PqAG/view?usp=drivesdk)
 
 - ⚡ Fun fact **I have great humour and I'm also a memer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/senpaii_x69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senpaii_x69" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/huraira-younas-a4362b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huraira-younas-a4362b229" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/senpai-x69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="senpai-x69" height="30" width="40" /></a>
-<a href="https://fb.com/hurri.isbad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hurri.isbad" height="30" width="40" /></a>
-<a href="https://instagram.com/senpaii_x69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senpaii_x69" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucp33wgxmovo165tjtctkkjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucp33wgxmovo165tjtctkkjw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lovingbird331_rb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lovingbird331_rb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/senpaii_x69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="senpaii_x69" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zaynal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huraira-younas-a4362b229" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19140033/ojen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="senpai-x69" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
