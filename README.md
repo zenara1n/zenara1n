@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenara1n" alt="zenara1n" /></a> </p>
 
-- 🔭 I’m currently working on NeverLost
+- 🔭 I’m currently working on Varskart
 
-- 🔭 My Major Project is [InstaPro](https://insta-pro.vercel.app)
+- 🔭 On-going Project is [Crutox](https://play.google.com/store/apps/details?id=com.mine.crutox&hl=en&gl=US)
 
-- 🌱 I’m currently learning **nextjs, firebase, next-auth**
+- 💬 Ask me about **React, Next, Tailwindcss, Flutter, Android**
 
-- 💬 Ask me about **react, next, tailwindcss, Flutter, Android**
-
-- 📫 How to reach me **zxzayn@gmail.com**
+- 📫 How to reach me **zain@avisadev.com**
 
 - 📄 Know about my experiences [Portfolio](https://zenara1n.github.io/personal-portfolio/)
 
