@@ -1,33 +1,57 @@
-<h1 align="center">Hi 👋, I'm Zenara1n</h1>
-<h3 align="center">A passionate ReactJS and Flutter Developer</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm [Your Name]</h1>
+<h3 align="center">🚀 Developer | Builder | Creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenara1n&label=Profile%20views&color=0e75b6&style=flat" alt="zenara1n" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenara1n" alt="zenara1n" /></a> </p>
-
-- 🔭 I’m currently working on Varskart
-
-- 🔭 On-going Project is [Crutox](https://play.google.com/store/apps/details?id=com.mine.crutox&hl=en&gl=US)
-
-- 💬 Ask me about **React, Next, Tailwindcss, Flutter, Android**
-
-- 📫 How to reach me **zain@avisadev.com**
-
-- 📄 Know about my experiences [Portfolio](https://zenara1n.github.io/personal-portfolio/)
-
-- ⚡ Fun fact **I have great humour and I'm also a memer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/zaynal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huraira-younas-a4362b229" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19140033/ojen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="senpai-x69" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Explorer;Lifelong+Learner" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenara1n&show_icons=true&locale=en&layout=compact" alt="zenara1n" /></p>
+## 🔥 About Me
+- 🌱 Currently working on **[Project Name/Your Startup]**
+- 💡 Exploring **[Tech you’re learning]**
+- 🎯 Goal: *[Your personal mission, e.g. "Build impactful open-source tools"]*
+- ⚡ Fun fact: *[Unique personal detail]*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenara1n&show_icons=true&locale=en" alt="zenara1n" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenara1n&" alt="zenara1n" /></p>
+## 🛠 Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,flutter,java,python,php,solidity" /><br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,figma,mongodb,mysql,linux" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+---
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
+</p>
+
+---
+
+## ⚡ Fun Touch
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</p>
